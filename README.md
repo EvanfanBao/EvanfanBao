@@ -3,7 +3,9 @@
 
 ## Homepages
 Personal Pages: https://evanfanbao.github.io
+
 Linkedin: https://www.linkedin.com/in/rayeren
+
 Google Scholar: https://scholar.google.com/citations?user=yVSjCCcAAAAJ&hl
 
 ## Recent Research
